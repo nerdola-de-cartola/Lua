@@ -1,3 +1,13 @@
+# Folders
+*\.vscode
+
+# Audio
+*.mp3
+
+# Images
+*.png
+*.jpg
+
 # Compiled Lua sources
 luac.out
 
